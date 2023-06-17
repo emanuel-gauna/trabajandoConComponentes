@@ -1,7 +1,7 @@
 import React from "react";
 import PropTypes from "prop-types";
 import { RowAndColumns } from "../RowAndColumns";
-{/* import MovieList from './MovieList'; */}
+
 
 const dataMovie = [
     {

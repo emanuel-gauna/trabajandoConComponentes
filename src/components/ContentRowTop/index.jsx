@@ -1,4 +1,4 @@
-import React, {Component} from 'react';
+import React from 'react';
 import { GenresInDb } from "../ContentRowTop/GenresInDb";
 import { LastMovieInDb } from '../ContentRowTop/LastMovieInDb';
 import { ContentRowMovies } from '../ContentRowTop/ContentRowMovies';
